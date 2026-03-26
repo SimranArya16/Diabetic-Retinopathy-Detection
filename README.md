@@ -18,5 +18,6 @@ It is trained using labeled fundus images with 5 DR classes.
 Evaluation metrics include accuracy, precision, recall, and F1-score.
 
 ## How to Run
-
 ### Install dependencies
+- pip install -r requirements.txt
+- Run the app - streamlit run app/app.py
